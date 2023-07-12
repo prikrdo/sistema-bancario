@@ -7,8 +7,11 @@ Olá Pessoal. Este projeto fez parte de um desafio do bootcamp (Potência Tech p
 - Depositar
 - Visualizar Extrato
 
+### Primeiro Projeto 
+Sistema Bancário Simples()
 
-
+### Segundo Projeto
+Sistema Bancário Otimizado(https://github.com/prikrdo/sistema-bancario/blob/main/sistema-bancario-otimizado-desatio2.py)
 
 
 ### **Linguagens**
